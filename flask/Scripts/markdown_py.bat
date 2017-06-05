@@ -1,0 +1,1 @@
+@"c:\users\patir\documents\bankofamerica\flask-angularjs\scripts\python.exe" "c:\users\patir\documents\bankofamerica\flask-angularjs\Scripts\markdown_py" %*
